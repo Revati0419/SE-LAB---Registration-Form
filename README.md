@@ -26,5 +26,6 @@ This project also integrates key features such as:
 ## Contributors 
 - Revati Patare
 - Tanuja Patil
+- Shreya Patil
 
 ---
